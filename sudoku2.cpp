@@ -33,6 +33,7 @@ void printBox(int[][]){
     }
 }
 
+// create a thread to 
 int main()
 {
     // print the box 

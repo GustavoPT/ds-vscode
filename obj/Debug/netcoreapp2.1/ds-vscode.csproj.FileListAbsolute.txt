@@ -1,0 +1,4 @@
+C:\Users\gustx\Desktop\ds-vscode\obj\Debug\netcoreapp2.1\ds-vscode.csprojAssemblyReference.cache
+C:\Users\gustx\Desktop\ds-vscode\obj\Debug\netcoreapp2.1\ds-vscode.csproj.CoreCompileInputs.cache
+C:\Users\gustx\Desktop\ds-vscode\obj\Debug\netcoreapp2.1\ds-vscode.AssemblyInfoInputs.cache
+C:\Users\gustx\Desktop\ds-vscode\obj\Debug\netcoreapp2.1\ds-vscode.AssemblyInfo.cs
